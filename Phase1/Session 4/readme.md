@@ -2,7 +2,7 @@ Group Members :
 
 Aditya, Gaurav Pandey, Bikash Bhoi, Abhijit Gairola  
 
-Notebook : [Link]()
+Notebook : [Link](https://github.com/adishukla2009/END/blob/main/Phase1/Session%204/ENDP1S14_Upgraded_Sentiment_Analysis.ipynb)
 
 Training log [Validation accuracy crosses 87 at 8th epoch]
 
